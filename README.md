@@ -2,7 +2,7 @@
 
 ## GrandMA3
 [GrandMA3 onPC](https://www.malighting.com/downloads/products/grandma3/)    
-[ERA 600](https://www.martin.com/en/products/era-600-profile)
+[ERA 600 Performance](https://www.martin.com/en/site_elements/martin-era-600-profile-user-guide)
 
 ### GrandMA3 Version
 `2.2.5`
