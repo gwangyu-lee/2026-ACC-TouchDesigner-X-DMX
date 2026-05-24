@@ -11,7 +11,7 @@
 #### MacOS
 `/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/shows`
 #### Windows
-`C/Program Files/MALightingTechnology/gma3_2.2.5/shared/shows`
+`C/Program Data/MALightingTechnology/gma3_2.2.5/shared/shows`
 
 ### Original show file
 [ACT Academy GrandMA3 Programming Contest](https://academy.actentertainment.com/grandma3-programming-contest)
