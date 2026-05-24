@@ -1,1 +1,14 @@
 # 2026-ACC-TouchDesigner-X-DMX
+
+## GrandMA3
+[GrandMA3 onPC](https://www.malighting.com/downloads/products/grandma3/)    
+[ERA 600](https://www.martin.com/en/products/era-600-profile)
+
+### GrandMA3 Version
+`2.2.5`
+
+### Show file Path
+`/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/shows`
+
+### Original show file
+[ACT Academy GrandMA3 Programming Contest](https://academy.actentertainment.com/grandma3-programming-contest)
