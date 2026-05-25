@@ -2,7 +2,7 @@
 
 ## GrandMA3
 [GrandMA3 onPC](https://www.malighting.com/downloads/products/grandma3/)    
-[ERA 600 Performance](https://www.martin.com/en/site_elements/martin-era-600-profile-user-guide)
+[ERA 600 Performance](https://www.martin.com/en/site_elements/martin-era-600-profile-user-guide)    
 [ZB7 Standard](https://ckclighting.com/item/310.html)
 
 ### GrandMA3 Version
