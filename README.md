@@ -7,11 +7,16 @@
 ### GrandMA3 Version
 `2.2.5`
 
-### Show file Path
+### Show file path
 #### MacOS
 `/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/shows`
 #### Windows
 `C/Program Data/MALightingTechnology/gma3_2.2.5/shared/shows`
 
-### Original show file
-[ACT Academy GrandMA3 Programming Contest](https://academy.actentertainment.com/grandma3-programming-contest)
+### GDTF file path
+#### MacOS
+`/Users/ USERNAME /MALightingTechnology/gma3_library/fixturetypes`
+
+### Reference
+[Original show file](https://academy.actentertainment.com/grandma3-programming-contest)
+[GDTF Share](https://gdtf-share.com)
