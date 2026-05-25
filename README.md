@@ -20,5 +20,5 @@
 
 ### Links
 [Original show file](https://academy.actentertainment.com/grandma3-programming-contest)    
-[GDTF Share](https://gdtf-share.com)
+[GDTF Share](https://gdtf-share.com)    
 [Google Drive](https://drive.google.com/drive/folders/1pHov9Md03i9mkOuf4tO8KKbt7lgNDfmC?usp=sharing)
