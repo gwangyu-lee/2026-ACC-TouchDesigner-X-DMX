@@ -18,5 +18,5 @@
 `/Users/ USERNAME /MALightingTechnology/gma3_library/fixturetypes`
 
 ### Reference
-[Original show file](https://academy.actentertainment.com/grandma3-programming-contest)
+[Original show file](https://academy.actentertainment.com/grandma3-programming-contest)    
 [GDTF Share](https://gdtf-share.com)
